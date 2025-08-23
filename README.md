@@ -4,52 +4,52 @@ Repository of Computer Program developed in Python for our Subject ITCS102 - Fir
 
 [ACTIVITY 1.txt](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/ACTIVITY%201.txt)
 
-· Info lang
+ Info lang
 
 [activity1.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity1.py)
 
-· Laro laro
+ Laro laro
 
 [activity2.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity2.py)
 
-· Ekis daw
+ Ekis daw
 
 [activity3.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity3.py)
 
-· Distansya pre, baby ko 'yan
+ Distansya pre, baby ko 'yan
 
 [activity4.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity4.py)
 
-· Bilangin mo
+ Bilangin mo
 
 [activity5.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity5.py)
 
-· Sanaol si something
+ Sanaol si something
 
 [activity6.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity6.py)
 
-· Ex mo dalawa
+ Ex mo dalawa
 
 [activity7.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity7.py)
 
-· Value ni a, cutsie
+ Value ni a, cutsie
 
 [activity8.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity8.py)
 
-· Piraaa
+ Piraaa
 
 [activity9.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity9.py)
 
-· Account ko
+ Account ko
 
 [activity10.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/activity10.py)
 
-· Discount sa jeep
+ Discount sa jeep
 
 [code_challenge1.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/code_challenge1.py)
 
-· Iyeaaa, Diamond
+ Iyeaaa, Diamond
 
 [code_challenge2.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/code_challenge2.py)
 
-· Bangko ata
+ Bangko ata
