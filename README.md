@@ -56,5 +56,8 @@ Repository of Computer Program developed in Python for our Subject ITCS102 - Fir
 
 [code_challenge3.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/c8d6c9f7df0b7178e05dae53d49740a754e3c6f3/code_challenge3.py)
 
-account the sikond
+Account the sikond
 
+[code_challenge4.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/3bfad1d90c911fc8a5a6846f82394acbd9caeb86/code_challenge4.py)
+
+Odd at even, sheesh
