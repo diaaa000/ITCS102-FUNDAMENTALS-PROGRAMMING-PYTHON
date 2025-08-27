@@ -53,3 +53,8 @@ Repository of Computer Program developed in Python for our Subject ITCS102 - Fir
 [code_challenge2.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/93c36ef724283f49d4bb3a9e45bca3d9d7ff8cea/code_challenge2.py)
 
  Bangko ata
+
+[code_challenge3.py](https://github.com/diaaa000/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/c8d6c9f7df0b7178e05dae53d49740a754e3c6f3/code_challenge3.py)
+
+account the sikond
+
