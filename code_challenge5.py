@@ -37,7 +37,7 @@ elif genre == "Horror":
    
 #Romance
 elif genre == "Romance":
-    length = input("\nHow long do you want your manga be? (Short, Long): ")
+    length = input("\nHow long do you want your Romance manga be? (Short, Long): ")
     if length == "Short":
         decade = input("\nWhich decade do you want your Romance Manga be? (2000s, 2010s): ")
         if decade == "2000s":
@@ -51,4 +51,4 @@ elif genre == "Romance":
         elif decade == "2010s":
             print("\nHere are the Long Romance Manga's in the year 2010s:\n\tHoney Lemon Soda by Murata Mayu"\n\tSnow White with The Red Hair by Sorata Akituki")
 else:
-    print("\n\tSorry but the genre you want is not available right now, please Choose another one")
+    print("\n\tSorry but the genre you want is not available right now, Please choose another one")
