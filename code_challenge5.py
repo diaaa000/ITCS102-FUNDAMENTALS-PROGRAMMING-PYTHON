@@ -49,6 +49,6 @@ elif genre == "Romance":
         if decade == "2000s":
             print("\nHere are the Long Romance Manga's in the year 2000s:\n\tKamisama Hajimemashita by Julietta Suzuki\n\tOuran High School Host Club by Bisco Hatori ")
         elif decade == "2010s":
-            print("\nHere are the Long Romance Manga's in the year 2010s:\n\tHoney Lemon Soda by Murata Mayu"\n\tSnow White with The Red Hair by Sorata Akituki")
+            print("\nHere are the Long Romance Manga's in the year 2010s:\n\tHoney Lemon Soda by Murata Mayu\n\tSnow White with The Red Hair by Sorata Akituki")
 else:
     print("\n\tSorry but the genre you want is not available right now, Please choose another one")
