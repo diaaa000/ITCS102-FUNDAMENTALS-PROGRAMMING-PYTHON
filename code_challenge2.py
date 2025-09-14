@@ -1,7 +1,7 @@
-name = input("What is your name.? ")
+name = input("What is your name? ")
 print("Hi", name , "Welcome to YS Bank")
 
-amount = int(input("Enter amount to deposit"))
+amount = int(input("Enter amount to deposit: "))
 
 y1 = amount // 1000
 amount = amount % 1000
@@ -31,5 +31,6 @@ print("Php20:",y6)
 print("Php10:",y7)
 print("Php5:",y8)
 print("Php1:",y9)
+
 
 text = input("\nThank you for banking with us!")
