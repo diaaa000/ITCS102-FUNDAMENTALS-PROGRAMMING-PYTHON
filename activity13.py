@@ -3,7 +3,7 @@
 
 numero = 5
 for y in range(1,15):
-  n = eval(input("Enter a number")) 
+  n = eval(input("Enter a number: ")) 
   numero += n 
   print('total number ay', numero) 
   print(numero) 
