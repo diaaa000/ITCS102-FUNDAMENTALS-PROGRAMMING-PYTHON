@@ -1,2 +1,3 @@
-name = input("Enter a string ->")
+name = input("Enter a string --> ")
+
 print("Your name has ", len(name), "characters")
