@@ -3,7 +3,7 @@
 
 sum_of_odd = 0
 for y in range(10):
-	n = int(input(f"Enter an odd number: "))
+	n = int(input(f"Enter a number: "))
 	if n % 2 != 0:
 		sum_of_odd += n
 		
