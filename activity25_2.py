@@ -1,18 +1,22 @@
 
-#functions with parameters
+#code_challenges
 
-def factorial(num):
-	fact = 1
-	for x in range(num, 0 , -1):
-		fact *= x
-	return fact
+def factorial():
+	an = eval(input("Enter a number : --> "))
+	result = 1
 	
-def some_triangle(num):
-	for i in range(1, int(num) + 1, 1):
-		#for y in range(1, i, 1):
-		#	print(" ", end= ' ')
-		for z in range(10, i, -1):
-			print("*", end= " ")
-		print()
-		
+	for y in range (an, 0, -1):
+	       print(result, "*", y, " = ", result)
+	       result *= y 
+	       
+	print("Factorial is", result)
 	
+def multiplication():
+	an = int(input("Enter a number: --> "))
+	
+	print(f"Multiplication Table for {an}: ")
+	
+	for y in range(1,11):
+	       result = an * y
+	       print(an,"x", "y", "=", result)
+
