@@ -12,7 +12,7 @@ isContinue = True
 
 while isContinue == True:
 	print("Select a Program")
-	print("A - Activity1\nB - Activity2\nC - Activity15\nD - Factorial\nF - Triangle\nE - Exit")
+	print("A - Activity1\nB - Activity2\nC - Activity15\nD - Multiplication\nF - Factorial\nE - Exit")
 	
 	choose = input("What program / code would you like to run ---> ").lower()
 	
@@ -26,13 +26,10 @@ while isContinue == True:
 		add_odd()
 		continue
 	elif choose == 'd':
-		print("Factorial Program")
-		num = input("Input a number for factorial computation --->")
-		print(f"The factorial of {num} is {factorial(num)}")
+		multiplication()
 		continue
-		
 	elif choose == 'f':
-		some_triangle()
+		factorial()
 		continue
 	elif choose == 'e':
 		print("System Exit")
